@@ -4,4 +4,6 @@ build with react+vite
 
 ## Screen shot: 
 
-file:///home/lain/Pictures/Screenshots/Screenshot%20from%202025-03-12%2004-40-16.png
+## Screen shot:
+
+![Screenshot of the application](images/Screenshot from 2025-03-12 04-40-16.png)
