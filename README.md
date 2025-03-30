@@ -7,7 +7,7 @@
 
 A dynamic memory card game built with React as part of [The Odin Project](https://www.theodinproject.com/) curriculum, focusing on **React Hooks** (especially `useState`).
 
-![Game Screenshot](/public/Screenshot from 2025-03-12 04-40-16.png)
+![Game Screenshot](/public/memory-game.png)
 
 ## Features
 
