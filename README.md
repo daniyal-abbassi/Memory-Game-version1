@@ -31,3 +31,7 @@ A dynamic memory card game built with React as part of [The Odin Project](https:
 ## Live URL
 
 https://daniyal-abbassi.github.io/Memory-Game-version1/
+
+## Updated Version2 Live URL
+
+https://daniyal-abbassi.github.io/Memory-Game-version2/
