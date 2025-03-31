@@ -1,7 +1,7 @@
 # Memory Game (TOP)
 
-[![React](https://img.shields.io/badge/React-18.x-blue)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-4.x-yellow)](https://vitejs.dev/)
+[![React](https://img.shields.io/badge/React-19.x-blue)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-6.x-yellow)](https://vitejs.dev/)
 [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 
 
